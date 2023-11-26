@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVC_Architecture</string>
+    <string name="username">Username</string>
+    <string name="fetch">Fetch</string>
+    <string name="content">Content</string>
+    <string name="date">date</string>
+</resources>
